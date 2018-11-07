@@ -1,0 +1,45 @@
+[2015/04/12 18:10:34]	信息	GetLocalConfigXML: config file [WhiteList_Bill.xml] Load error: 名称以无效字符开头。
+ 
+	 
+[2015/04/12 18:10:34]	信息	CSiteList<ItemType, ContainerType>::Load() [C:\Program Files (x86)\ICBCEbankTools\ICBCAntiPhishing\Config\WhiteList_Bill.xml] Load error: 名称以无效字符开头。
+ 	 
+[2015/04/14 19:43:19]	信息	GetLocalConfigXML: config file [WhiteList_Bill.xml] Load error: 名称以无效字符开头。
+ 
+	 
+[2015/04/14 19:43:19]	信息	CSiteList<ItemType, ContainerType>::Load() [C:\Program Files (x86)\ICBCEbankTools\ICBCAntiPhishing\Config\WhiteList_Bill.xml] Load error: 名称以无效字符开头。
+ 	 
+[2015/04/17 21:18:46]	信息	GetLocalConfigXML: config file [WhiteList_Bill.xml] Load error: 名称以无效字符开头。
+ 
+	 
+[2015/04/17 21:18:46]	信息	CSiteList<ItemType, ContainerType>::Load() [C:\Program Files (x86)\ICBCEbankTools\ICBCAntiPhishing\Config\WhiteList_Bill.xml] Load error: 名称以无效字符开头。
+ 	 
+[2015/04/21 17:49:42]	信息	GetLocalConfigXML: config file [WhiteList_Bill.xml] Load error: 名称以无效字符开头。
+ 
+	 
+[2015/04/21 17:49:42]	信息	CSiteList<ItemType, ContainerType>::Load() [C:\Program Files (x86)\ICBCEbankTools\ICBCAntiPhishing\Config\WhiteList_Bill.xml] Load error: 名称以无效字符开头。
+ 	 
+[2015/04/26 13:43:01]	信息	GetLocalConfigXML: config file [WhiteList_Bill.xml] Load error: 名称以无效字符开头。
+ 
+	 
+[2015/04/26 13:43:01]	信息	CSiteList<ItemType, ContainerType>::Load() [C:\Program Files (x86)\ICBCEbankTools\ICBCAntiPhishing\Config\WhiteList_Bill.xml] Load error: 名称以无效字符开头。
+ 	 
+[2015/04/29 19:45:33]	信息	GetLocalConfigXML: config file [WhiteList_Bill.xml] Load error: 名称以无效字符开头。
+ 
+	 
+[2015/04/29 19:45:33]	信息	CSiteList<ItemType, ContainerType>::Load() [C:\Program Files (x86)\ICBCEbankTools\ICBCAntiPhishing\Config\WhiteList_Bill.xml] Load error: 名称以无效字符开头。
+ 	 
+[2015/04/30 21:49:17]	信息	GetLocalConfigXML: config file [WhiteList_Bill.xml] Load error: 名称以无效字符开头。
+ 
+	 
+[2015/04/30 21:49:17]	信息	CSiteList<ItemType, ContainerType>::Load() [C:\Program Files (x86)\ICBCEbankTools\ICBCAntiPhishing\Config\WhiteList_Bill.xml] Load error: 名称以无效字符开头。
+ 	 
+[2015/05/03 17:40:22]	信息	GetLocalConfigXML: config file [WhiteList_Bill.xml] Load error: 名称以无效字符开头。
+ 
+	 
+[2015/05/03 17:40:22]	信息	CSiteList<ItemType, ContainerType>::Load() [C:\Program Files (x86)\ICBCEbankTools\ICBCAntiPhishing\Config\WhiteList_Bill.xml] Load error: 名称以无效字符开头。
+ 	 
+[2015/05/05 18:59:01]	信息	GetLocalConfigXML: config file [WhiteList_Bill.xml] Load error: 名称以无效字符开头。
+ 
+	 
+[2015/05/05 18:59:01]	信息	CSiteList<ItemType, ContainerType>::Load() [C:\Program Files (x86)\ICBCEbankTools\ICBCAntiPhishing\Config\WhiteList_Bill.xml] Load error: 名称以无效字符开头。
+ 	 
